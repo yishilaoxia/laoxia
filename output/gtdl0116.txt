@@ -29,37 +29,7 @@
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=847a78abed48f4bd298fe0d205ad0fdf&wsTime=1768579146
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=9d3796a9c77542c3b63dc9c392b0e148&wsTime=1768579146
 
-广东频道,#genre#
-广东新闻1080p,http://119.123.176.238:8086/hls/45/index.m3u8
-广东新闻1080p,http://rihou.cc:555/tv/[AtI]广东新闻
-广东新闻720p,https://www.wmviv.com/iptv/bc2t.php?id=gdxw
-广东影视1080p,http://119.123.176.238:8086/hls/46/index.m3u8
-广东影视1080p,http://rihou.cc:555/tv/[AtI]广东影视
-广东民生1080p,http://119.123.176.238:8086/hls/39/index.m3u8
-广东民生1080p,http://rihou.cc:555/tv/[AtI]广东民生
-广东经济科教1080p,http://119.123.176.238:8086/hls/63/index.m3u8
-广东经济科教1080p,http://rihou.cc:555/tv/[AtI]广东经济
-广东大湾区卫视1080p,http://119.123.176.238:8086/hls/29/index.m3u8
-广东大湾区卫视1080p,http://rihou.cc:555/tv/[AtI]广东湾区
-广州综合720p,http://r.jdshipin.com/iR6Gq
-广州综合720p,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州综合720p,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-广州新闻720p,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-广东珠江1080p,http://r.jdshipin.com/sE5vO
-广东珠江1080p,http://119.123.176.238:8086/hls/47/index.m3u8
-广东珠江1080p,https://live.catvod.com/iptv.php?id=gdzj01
-广东珠江1080p,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东珠江1080p,http://rihou.cc:555/tv/[AtI]广东珠江
-广东珠江576p,http://27.41.245.32:801/hls/25/index.m3u8
-广东体育1080p,http://27.41.245.32:801/hls/204/index.m3u8
-广东体育1080p,http://119.123.176.238:8086/hls/42/index.m3u8
-广东体育1080p,https://live.catvod.com/iptv.php?id=gdty01
-广东体育1080p,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育1080p,http://iptv.4666888.xyz/iptv2A.php?id=20
-广东体育1080p,http://rihou.cc:555/tv/[AtI]广东体育
-广东体育720p,http://74.91.26.218:82/live/gdty.m3u8
-
-🇨🇳IPV4线路,#genre#
+IPV4线路,#genre#
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV2,http://27.41.245.32:801/hls/2/index.m3u8
@@ -521,7 +491,7 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 浙江卫视,https://www.wmviv.com/iptv/bc2t.php?id=zjws
 浙江卫视,http://btjg.net:809/hls/29/index.m3u8
 浙江卫视,http://61.156.228.12:8154/tsfile/live/0124_1.m3u8
-🇨🇳组播线路,#genre#
+
 🇨🇳电影在线,#genre#
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
 宋小宝经典小品,https://live.ottiptv.cc/douyu/9817729
@@ -547,7 +517,7 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 怡宝影院,https://live.ottiptv.cc/douyu/434971
 粤语电影,https://live.ottiptv.cc/douyu/1226741
 赵本删不删,https://live.ottiptv.cc/douyu/9837104
-🇨🇳影音剧场,#genre#
+影音剧场,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
