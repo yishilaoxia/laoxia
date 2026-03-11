@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-11 18:43:05,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-12 06:30:20,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -18,7 +18,9 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 
 ☘️北京频道,#genre#
 
