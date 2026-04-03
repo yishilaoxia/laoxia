@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-03 18:47:16,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-04 06:37:16,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
@@ -19,13 +19,14 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 📡卫视频道,#genre#
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
@@ -100,6 +101,7 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://125.43.240.77:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
