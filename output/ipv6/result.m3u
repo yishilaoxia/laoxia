@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yishilaoxia/laoxia/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-09 06:58:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-09 18:59:45
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -1072,11 +1072,11 @@ http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡经济.png" group-title="☘️江苏频道",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡经济.png" group-title="☘️江苏频道",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
+#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡经济.png" group-title="☘️江苏频道",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡经济.png" group-title="☘️江苏频道",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
-#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡经济.png" group-title="☘️江苏频道",无锡经济
-http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 #EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
@@ -1195,8 +1195,6 @@ http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 #EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内黄综合.png" group-title="☘️河南频道",内黄综合
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内黄综合.png" group-title="☘️河南频道",内黄综合
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
 #EXTINF:-1 tvg-name="邯郸新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邯郸新闻.png" group-title="☘️河北频道",邯郸新闻
 https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆频道",新疆卫视
