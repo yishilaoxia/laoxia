@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 06:52:28,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-05-11 20:40:49,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -29,7 +29,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
-叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 
 ☘️福建频道,#genre#
 福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
