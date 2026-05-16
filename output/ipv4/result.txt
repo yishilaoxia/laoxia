@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-16 06:56:59,http://74.91.26.218:82/live/cctv5hd.m3u8
+2026-05-16 19:04:17,http://74.91.26.218:82/live/cctv5hd.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -10,7 +10,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️广东频道,#genre#
 
@@ -20,6 +19,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
 
 ☘️重庆频道,#genre#
 
@@ -36,6 +36,9 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 
 ☘️福建频道,#genre#
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 
