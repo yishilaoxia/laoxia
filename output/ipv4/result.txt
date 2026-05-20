@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-05-20 20:27:32,http://74.91.26.218:82/live/cctv5hd.m3u8
+2026-05-21 07:16:10,http://74.91.26.218:82/live/cctv5hd.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://cjcrcb.top:65500/udp/238.125.0.189:5140
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
@@ -33,6 +31,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
+叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 
 ☘️福建频道,#genre#
 
