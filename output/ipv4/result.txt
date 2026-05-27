@@ -1,7 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-27 20:55:15,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-05-28 07:19:18,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
