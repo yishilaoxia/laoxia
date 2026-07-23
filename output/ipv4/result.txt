@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-23 07:06:07,http://121.57.88.206:898/hls/3/index.m3u8
+2026-07-23 19:52:29,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
-CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📡卫视频道,#genre#
@@ -23,6 +22,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖北频道,#genre#
 
@@ -31,13 +31,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
-叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 
 ☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
-
-☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
 
